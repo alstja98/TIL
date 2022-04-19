@@ -1,1 +1,2 @@
-![image-20220414224641408](C:\Users\오민섬\AppData\Roaming\Typora\typora-user-images\image-20220414224641408.png)
+궁금한 점
+1. 아직 static의 기능이 잘 이해가 안감. 왜 필요한 것인지.
